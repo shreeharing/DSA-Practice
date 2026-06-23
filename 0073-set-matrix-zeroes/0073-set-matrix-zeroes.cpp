@@ -4,34 +4,32 @@ public:
         int numRow = matrix.size();
         int numCol = matrix[0].size();
 
-        vector<vector<int>>copyMatrix(numRow,vector<int>(numCol,1));
+        vector<int>rows(numRow,-1);
+        vector<int>columns(numCol,-1);
 
         for(int i=0;i<numRow;i++){
             for(int j=0;j<numCol;j++){
                 if(matrix[i][j] == 0){
-                    setRowAndColumnToZero(copyMatrix,i,j,numRow,numCol);
+                    rows[i] = 0;
+                    columns[j] = 0;
                 }
             }
         }
 
         for(int i=0;i<numRow;i++){
-            for(int j=0;j<numCol;j++){
-                if(copyMatrix[i][j] == 0)
+            if(rows[i] == 0){
+                for(int j=0;j<numCol;j++){
                     matrix[i][j] = 0;
+                }
+            }
+        }
+
+        for(int i=0;i<numCol;i++){
+            if(columns[i] == 0){
+                for(int j=0;j<numRow;j++){
+                    matrix[j][i] = 0;
+                }
             }
         }
     }
-
-    void setRowAndColumnToZero(vector<vector<int>>&matrix,int i,int j,int numRow,int numCol){
-        // Set Row values to zero
-        for(int k=0;k<numCol;k++){
-            matrix[i][k] = 0;
-        }
-
-        // Set column values to zero
-        for(int k=0;k<numRow;k++){
-            matrix[k][j] = 0;
-        }
-    }
-
 };
