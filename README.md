@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/shreeharing/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreeharing/DSA-Practice/tree/master/0048-rotate-image) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
