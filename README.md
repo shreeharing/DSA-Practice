@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shreeharing/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shreeharing/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shreeharing/DSA-Practice/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreeharing/DSA-Practice/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Prefix Sum
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
