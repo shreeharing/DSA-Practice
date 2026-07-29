@@ -95,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shreeharing/DSA-Practice/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shreeharing/DSA-Practice/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
