@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreeharing/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0970-powerful-integers](https://github.com/shreeharing/DSA-Practice/tree/master/0970-powerful-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shreeharing/DSA-Practice/tree/master/0048-rotate-image) |
 | [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [0970-powerful-integers](https://github.com/shreeharing/DSA-Practice/tree/master/0970-powerful-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Prefix Sum
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/shreeharing/DSA-Practice/tree/master/0401-binary-watch) |
+## Enumeration
+|  |
+| ------- |
+| [0970-powerful-integers](https://github.com/shreeharing/DSA-Practice/tree/master/0970-powerful-integers) |
 <!---LeetCode Topics End-->
