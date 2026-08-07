@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+## String
+|  |
+| ------- |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/shreeharing/DSA-Practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 <!---LeetCode Topics End-->
