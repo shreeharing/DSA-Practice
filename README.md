@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/shreeharing/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0970-powerful-integers](https://github.com/shreeharing/DSA-Practice/tree/master/0970-powerful-integers) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0970-powerful-integers](https://github.com/shreeharing/DSA-Practice/tree/master/0970-powerful-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 <!---LeetCode Topics End-->
