@@ -1,29 +1,25 @@
 class Solution {
 public:
     vector<int> restoreArray(vector<vector<int>>& adjacentPairs) {
-        unordered_map<int,int>hashMap;
         unordered_map<int,vector<int>>adjMap;
         int n = adjacentPairs.size();
 
         for(int i=0;i<n;i++){
-            hashMap[adjacentPairs[i][0]]++;
-            hashMap[adjacentPairs[i][1]]++;
-
             adjMap[adjacentPairs[i][0]].push_back(adjacentPairs[i][1]);
             adjMap[adjacentPairs[i][1]].push_back(adjacentPairs[i][0]);
 
         }
         int curEle=INT_MIN;
 
-        for(auto it:hashMap){
-            if(it.second==1){
+        for(auto it:adjMap){
+            if(it.second.size()==1){
                 curEle=it.first;
                 break;
             }
         }
         vector<int>res;
         int prevEle = INT_MIN;
-        while(res.size()<hashMap.size()){
+        while(res.size()<adjacentPairs.size()+1){
             if(prevEle != INT_MIN){
                 res.push_back(prevEle);
             }
