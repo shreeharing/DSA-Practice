@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/shreeharing/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shreeharing/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shreeharing/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shreeharing/DSA-Practice/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shreeharing/DSA-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shreeharing/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
