@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/shreeharing/DSA-Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreeharing/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/shreeharing/DSA-Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Divide and Conquer
 |  |
 | ------- |
