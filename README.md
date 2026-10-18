@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/shreeharing/DSA-Practice/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2506-count-pairs-of-similar-strings](https://github.com/shreeharing/DSA-Practice/tree/master/2506-count-pairs-of-similar-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0970-powerful-integers](https://github.com/shreeharing/DSA-Practice/tree/master/0970-powerful-integers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/shreeharing/DSA-Practice/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/shreeharing/DSA-Practice/tree/master/2506-count-pairs-of-similar-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shreeharing/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [2506-count-pairs-of-similar-strings](https://github.com/shreeharing/DSA-Practice/tree/master/2506-count-pairs-of-similar-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/shreeharing/DSA-Practice/tree/master/0401-binary-watch) |
+| [2506-count-pairs-of-similar-strings](https://github.com/shreeharing/DSA-Practice/tree/master/2506-count-pairs-of-similar-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -129,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/shreeharing/DSA-Practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2506-count-pairs-of-similar-strings](https://github.com/shreeharing/DSA-Practice/tree/master/2506-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
