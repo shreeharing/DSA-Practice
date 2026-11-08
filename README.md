@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shreeharing/DSA-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shreeharing/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreeharing/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreeharing/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shreeharing/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreeharing/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreeharing/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shreeharing/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shreeharing/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shreeharing/DSA-Practice/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreeharing/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreeharing/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreeharing/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreeharing/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreeharing/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/shreeharing/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreeharing/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
